@@ -8,7 +8,7 @@
 
 
 
-## 一、综述 Survey
+## 一、Survey
 
 Motion Planning and Control for Mobile Robot Navigation Using Machine Learning: a Survey (2022)
 
@@ -36,7 +36,7 @@ Motion Planning for Autonomous Driving: The State of the Art and Perspectives
 
 A Systematic Survey of Control Techniques and Applications in Connected and Automated Vehicles
 
-## 二、相关论文 Papers
+## 二、Papers
 
 Planning and Decision-Making for Autonomous Vehicles
 
@@ -126,7 +126,7 @@ PlanT Explainable Planning Transformers via Object-Level Representations
 
 Bi-Level Optimization Augmented with Conditional Variational Autoencoder for Autonomous Driving in Dense Traffic
 
-## 三、代码仓库 Code
+## 三、Code
 
 一个A* 路径查找算法的 Python 可视化仓库。它允许您选择开始和结束位置，并查看查找最短路径的过程。
 
